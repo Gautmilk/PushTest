@@ -13,6 +13,8 @@ public class GitReview {
         System.out.println("A simple example");
         
         System.out.println("Modified on GitHub");
+        
+        System.out.println("Modification for Pull test");
        
     }
 
